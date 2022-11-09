@@ -240,6 +240,22 @@ Source: Izenman, A. J. (2008). Modern multivariate statistical techniques: Regre
 
 `r knitr::include_url("https://www.youtube.com/embed/J2YWrDR3fF8")`
 
+`r knitr::include_url("https://www.youtube.com/embed/oo2eX7MPJLo")`
+
+<details>
+<summary> Meeting chat log </summary>
+
+```
+00:23:41	Ricardo Serrano:	PCA video https://youtu.be/4tm4_pTBudA
+```
+</details>
+
+
+<!--
+### Cohort 2
+
+`r knitr::include_url("https://www.youtube.com/embed/URL")`
+
 <details>
 <summary> Meeting chat log </summary>
 
@@ -247,3 +263,4 @@ Source: Izenman, A. J. (2008). Modern multivariate statistical techniques: Regre
 LOG
 ```
 </details>
+-->
